@@ -1,0 +1,9 @@
+{
+  "name": "Max",
+  "surname": "Zhurkin",
+  "music": ["saosin", "korn"],
+  "adress": {
+    "street":"Belinskogo",
+    "house": "135"
+  }
+}
